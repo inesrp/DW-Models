@@ -1,0 +1,11 @@
+Model Information:
+* title:	Totoro
+* source:	https://sketchfab.com/3d-models/totoro-eec35802260c42a096e5168d67831e60
+* author:	Sodatsu Hachimitsu (https://sketchfab.com/sodatsu83)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Totoro" (https://sketchfab.com/3d-models/totoro-eec35802260c42a096e5168d67831e60) by Sodatsu Hachimitsu (https://sketchfab.com/sodatsu83) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
